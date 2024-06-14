@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🤖 I’m currently working on [UKM Soedirman Robotic Team: KRSRI (Kontes Robot SAR Indonesia) Division Programmer - Satria Team, Universitas Jenderal Soedirman]
+- 🤖 I’m currently working on UKM Soedirman Robotic Team: KRSRI (Kontes Robot SAR Indonesia) Division Programmer - Satria Team, Universitas Jenderal Soedirman
 
 - 🐣 I’m working on another project [Design and Implementation of an IoT-Based Egg Incubator System with PID Control Using ESP32 Microcontroller](https://github.com/hanifanhilmana/EggIncubator_SmartLivestock.git)
 
