@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **Microcontroller Programming, Industrial Automation, and PLC (Programmable Logic Controller)**
 
-- 📫 How to reach me **bagja.hilmana@gmail.com**
+- 🛠 Tool Engineer Skills **Visual Studio Code, Arduino IDE, Node- RED, Thinger- IO, CX- Programmer, CX- Designer, SIMATIC Manager (STEP 7), Factory IO, Fritzing, AutoCAD Electrical, EasyEDA, EAGLE, Proteus, Autodesk Inventor, ETAP, and Matlab**
 
 - 📄 Know about my experiences [My Resume - Bagja Hanifan Hilmana](https://drive.google.com/file/d/1I4c93hV_rI2aOrid08xiPSHF0C3M5e9-/view?usp=sharing)
-
-- 🛠 Tool Engineer Skills **Visual Studio Code, Arduino IDE, Node- RED, Thinger- IO, CX- Programmer, CX- Designer, SIMATIC Manager (STEP 7), Factory IO, Fritzing, AutoCAD Electrical, EasyEDA, EAGLE, Proteus, Autodesk Inventor, ETAP, and Matlab**
+  
+- 📫 How to reach me **bagja.hilmana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
