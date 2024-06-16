@@ -46,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanifanhilmana&show_icons=true&locale=en" alt="hanifanhilmana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifanhilmana&" alt="hanifanhilmana" /></p>
+
+<img src="https://raw.githubusercontent.com/hanifanhilmana/hanifanhilmana/output/snake.svg" alt="Snake animation" />
